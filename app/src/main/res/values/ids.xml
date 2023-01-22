@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="activity_main" type="id" />
+    <item name="result_text" type="id" />
+    <item name="textView" type="id" />
+    <item name="roll_button" type="id" />
+</resources>
